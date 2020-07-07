@@ -59,6 +59,5 @@ class InstaBot:
 
 my_bot = InstaBot('angith_nair','16029816A&a.')
 my_bot.get_unfollowers()
-my_bot._get_names()
 
 
