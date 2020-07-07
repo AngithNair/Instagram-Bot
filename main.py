@@ -57,7 +57,7 @@ class InstaBot:
             .click()
         return names
 
-my_bot = InstaBot('angith_nair','16029816A&a.')
+my_bot = InstaBot('your_username','password')
 my_bot.get_unfollowers()
 
 
